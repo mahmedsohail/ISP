@@ -167,15 +167,6 @@ npm run build
 # Start production server locally
 npm run start
 ```
-
----
-
-## 🔒 Security Reporting
-
-Security vulnerability reports or disclosure inquiries can be sent directly to `security@apexindustrial.com` or submitted through GitHub Security Advisories.
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
