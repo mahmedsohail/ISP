@@ -12,15 +12,15 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Advanced Idea Company Ltd - Industrial Services Provider',
-  description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, and maintenance solutions.',
-  keywords: 'industrial services, manufacturing, engineering, automation, maintenance, Advanced Idea Company',
-  authors: [{ name: 'Advanced Idea Company Ltd' }],
-  creator: 'Advanced Idea Company Ltd',
-  publisher: 'Advanced Idea Company Ltd',
+  title: 'Apex Industrial Group - Leading Industrial Services Provider',
+  description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, construction, and plant maintenance solutions.',
+  keywords: 'industrial services, engineering, manufacturing, automation, plant maintenance, Apex Industrial Group',
+  authors: [{ name: 'Apex Industrial Group' }],
+  creator: 'Apex Industrial Group',
+  publisher: 'Apex Industrial Group',
   icons: {
-    icon: '/images/brand/Logo.png',
-    shortcut: '/images/brand/Logo.png',
+    icon: '/images/brand/favicon.svg',
+    shortcut: '/images/brand/favicon.svg',
     apple: '/images/brand/Logo.png',
   },
   formatDetection: {
@@ -28,18 +28,18 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://advancedideacompany.com'),
+  metadataBase: new URL('https://apexindustrial.com'),
   openGraph: {
-    title: 'Advanced Idea Company Ltd - Industrial Services Provider',
-    description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, and maintenance solutions.',
-    url: 'https://advancedideacompany.com',
-    siteName: 'Advanced Idea Company Ltd',
+    title: 'Apex Industrial Group - Leading Industrial Services Provider',
+    description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, construction, and plant maintenance solutions.',
+    url: 'https://apexindustrial.com',
+    siteName: 'Apex Industrial Group',
     images: [
       {
         url: '/images/brand/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Advanced Idea Company Ltd',
+        alt: 'Apex Industrial Group',
       },
     ],
     locale: 'en_US',
@@ -47,8 +47,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Advanced Idea Company Ltd - Industrial Services Provider',
-    description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, and maintenance solutions.',
+    title: 'Apex Industrial Group - Leading Industrial Services Provider',
+    description: 'Leading provider of comprehensive industrial services including manufacturing, engineering, automation, construction, and plant maintenance solutions.',
     images: ['/images/brand/og-image.jpg'],
   },
   robots: {

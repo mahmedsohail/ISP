@@ -80,7 +80,7 @@ export function PageLoading() {
           transition={{ delay: 0.2 }}
           className="space-y-4"
         >
-          <h2 className="text-2xl font-bold text-slate-900">Advanced Idea Company</h2>
+          <h2 className="text-2xl font-bold text-slate-900">Apex Industrial Group</h2>
           <Loading message="Loading page..." size="md" />
         </motion.div>
       </div>

@@ -74,7 +74,7 @@ export function Navigation() {
             <span className="inline-flex items-center justify-center rounded-full bg-white shadow border border-neutral-200 w-16 h-16">
               <Image 
                 src="/images/brand/Logo.png" 
-                alt="Advanced Idea Company Logo" 
+                alt="Apex Industrial Group Logo" 
                 width={64}
                 height={64}
                 className="h-12 w-auto"
@@ -82,7 +82,7 @@ export function Navigation() {
               />
             </span>
             <div className="hidden sm:block">
-              <h1 className={cn('text-xl font-bold', isScrolled ? 'text-neutral-900' : 'text-white')}>Advanced Idea Company</h1>
+              <h1 className={cn('text-xl font-bold', isScrolled ? 'text-neutral-900' : 'text-white')}>Apex Industrial Group</h1>
               <p className={cn('text-xs', isScrolled ? 'text-neutral-600' : 'text-white/70')}>Industrial Solutions</p>
             </div>
           </Link>

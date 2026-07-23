@@ -12,7 +12,7 @@ const testimonials = [
     company: 'AutoCorp Industries',
     logo: '/images/brand/Logo.png',
     content:
-      'Advanced Idea Company transformed our manufacturing process. Their team was professional and delivered measurable results within the first quarter.',
+      'Apex Industrial Group transformed our manufacturing process. Their team was professional and delivered measurable results within the first quarter.',
     rating: 5,
   },
   {

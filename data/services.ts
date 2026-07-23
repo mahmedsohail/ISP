@@ -28,7 +28,7 @@ export const services: Service[] = [
     title: 'Engineering Services',
     summary: 'System design, technical consulting, project management, and compliance engineering.',
     body:
-      `AICO provides multidisciplinary engineering solutions, covering front-end engineering design (FEED), detailed design, and constructibility reviews. Our experts integrate the latest standards and innovative tools to drive project success from concept to commissioning.`,
+      `Apex Industrial provides multidisciplinary engineering solutions, covering front-end engineering design (FEED), detailed design, and constructibility reviews. Our experts integrate the latest standards and innovative tools to drive project success from concept to commissioning.`,
     features: [
       'Process, mechanical, and electrical engineering',
       'Constructibility and value engineering',
@@ -103,7 +103,7 @@ export const services: Service[] = [
     title: 'Mechanical Services',
     summary: 'Piping, pumps, HVAC, fire protection and plant utilities installation.',
     body:
-      `AICO delivers complete mechanical installation, piping fabrication, and plant utility solutions. Our certified welding teams and QC inspectors ensure code compliance and durability on every project.`,
+      `Apex Industrial delivers complete mechanical installation, piping fabrication, and plant utility solutions. Our certified welding teams and QC inspectors ensure code compliance and durability on every project.`,
     features: [
       'Welding & pipe fabrication',
       'Pump and utility system installation',
@@ -133,7 +133,7 @@ export const services: Service[] = [
     title: 'Industrial Materials',
     summary: 'Bulk steel, pipes, plates, cables, chemicals and packaging.',
     body:
-      `AICO is a one-stop supplier for certified materials, including pipelines, steel structures, insulation, chemicals, and fasteners. Our supply chain is optimized for quick turnaround, compliance, and competitive pricing.`,
+      `Apex Industrial is a one-stop supplier for certified materials, including pipelines, steel structures, insulation, chemicals, and fasteners. Our supply chain is optimized for quick turnaround, compliance, and competitive pricing.`,
     features: [
       'Bulk steel and pipeline supply',
       'Certified cables and insulators',

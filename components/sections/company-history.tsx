@@ -9,7 +9,7 @@ const milestones = [
   {
     year: 1998,
     title: 'Company Founded',
-    description: 'Advanced Idea Company was established with a vision to revolutionize industrial operations through innovative technology solutions.',
+    description: 'Apex Industrial Group was established with a vision to revolutionize industrial operations through innovative technology solutions.',
     icon: Lightbulb,
     color: 'from-blue-500 to-cyan-500'
   },

@@ -19,7 +19,7 @@ export function CTA() {
             Ready to discuss your industrial goals?
           </h2>
           <p className="text-lg sm:text-xl text-slate-300 mb-8">
-            Let’s start a conversation about how AICO can accelerate your project and boost your operations.
+            Let’s start a conversation about how Apex Industrial Group can accelerate your project and boost your operations.
           </p>
           <Link href="/contact">
             <Button size="lg" className="bg-gradient-to-r from-white to-accent-200 hover:to-accent-300" style={{ color: 'black' }}>

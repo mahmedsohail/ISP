@@ -15,7 +15,7 @@ export default function GlobalError({ reset }: { reset: () => void }) {
           <div className="absolute inset-x-0 top-0 h-[53vh] bg-gradient-to-b from-secondary-900/55 to-transparent" />
           {/* Subtle logo watermark */}
           <div className="absolute left-1/2 top-[30%] -translate-x-1/2 opacity-5 z-0 select-none pointer-events-none">
-            <Image src="/images/brand/Logo.png" alt="AICO Logo" width={200} height={200} priority />
+            <Image src="/images/brand/Logo.png" alt="Apex Industrial Group Logo" width={200} height={200} priority />
           </div>
 
           <div className="container-custom relative z-10">

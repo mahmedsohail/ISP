@@ -14,10 +14,10 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <span className="inline-flex items-center justify-center rounded-full bg-white shadow border border-neutral-200 w-12 h-12">
-                <Image src="/images/brand/Logo.png" alt="AICO" width={36} height={36} className="h-9 w-auto" />
+                <Image src="/images/brand/Logo.png" alt="Apex Industrial Group" width={36} height={36} className="h-9 w-auto" />
               </span>
               <div>
-                <h3 className="text-base font-semibold">Advanced Idea Company</h3>
+                <h3 className="text-base font-semibold">Apex Industrial Group</h3>
                 <p className="text-xs text-white/70">Industrial Solutions</p>
               </div>
             </div>
@@ -28,9 +28,9 @@ export function Footer() {
             {/* Contact compact */}
             <ul className="space-y-2 text-sm">
               <li className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent-300" /> +966 13 363 2232</li>
-              <li className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent-300" /> info@aigroup.co</li>
+              <li className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent-300" /> info@apexindustrial.com</li>
               <li className="flex items-start gap-2"><MapPin className="w-4 h-4 flex-shrink-0 mt-0.5 text-accent-300" />
-                <span className="">Office 706, 101 Business Tower, King Abdul Aziz Road, Al Jubail, Saudi Arabia</span>
+                <span className="">Apex Industrial Plaza, King Fahd Road, Riyadh, Saudi Arabia</span>
               </li>
             </ul>
           </div>
@@ -92,7 +92,7 @@ export function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-white/10">
         <div className="container-custom py-6 flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="text-white/70 text-sm">© {new Date().getFullYear()} Advanced Idea Company Ltd. All rights reserved.</div>
+          <div className="text-white/70 text-sm">© {new Date().getFullYear()} Apex Industrial Group. All rights reserved.</div>
           <div className="text-white/60 text-xs">
             Made with ❤️ by ·
             <a

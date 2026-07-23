@@ -1,5 +1,5 @@
 {
-  "name": "advanced-idea-company",
+  "name": "apex-industrial-group",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
     "framer-motion": "^10.16.16",
     "lucide-react": "^0.294.0",
     "next": "^14.2.33",
-    "nodemailer": "^7.0.10",
+    "nodemailer": "^9.0.3",
     "postcss": "^8.4.32",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

@@ -15,14 +15,14 @@ const contactMethods = [
     icon: Mail,
     title: 'Email Us',
     // description: 'Send us your project details',
-    action: 'info@aigroup.co',
-    href: 'mailto:info@aigroup.co'
+    action: 'info@apexindustrial.com',
+    href: 'mailto:info@apexindustrial.com'
   },
   {
     icon: MapPin,
     title: 'Visit Us',
     // description: 'Come to our headquarters',
-    action: 'Office 706, 101 BT, KSA',
+    action: 'Apex Industrial Plaza, Riyadh, KSA',
     href: '#map'
   }
 ]

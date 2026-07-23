@@ -36,7 +36,7 @@ export function AboutHero() {
                 className="inline-flex items-center px-4 py-2 bg-white/10 text-white rounded-full text-sm font-medium ring-1 ring-white/20"
               >
                 <CheckCircle className="w-4 h-4 mr-2" />
-                About Advanced Idea Company
+                About Apex Industrial Group
               </motion.div>
 
               <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold leading-tight text-white">
